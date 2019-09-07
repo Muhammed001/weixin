@@ -1,0 +1,13 @@
+{
+ "pages": [
+   "Entrance"
+ ],
+ "window": {
+   "navigationBarBackgroundColor": "#ffffff",
+   "navigationBarTextStyle": "black",
+   "navigationBarTitleText": "小程序",
+   "backgroundColor": "#eeeeee",
+   "backgroundTextStyle": "light",
+   "enablePullDownRefresh": false
+ } 
+}

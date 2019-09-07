@@ -1,0 +1,6 @@
+ <!-- <view>
+    <button bindtap='bindtest'>test</button>
+</view>  -->
+<view class="info">
+<text>用户名或者密码错误，请重新登录！</text>
+</view>

@@ -10,7 +10,9 @@
 	},
 	"appid": "wx8631e876e47c5f34",
 	"projectname": "weixin",
-	"libVersion": "2.2.5",
+	"libVersion": "2.0.4",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
@@ -28,12 +30,27 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": 2,
 			"list": [
 				{
 					"id": -1,
-					"name": "db guide",
-					"pathName": "pages/databaseGuide/databaseGuide"
+					"name": "helloWfirst",
+					"pathName": "pages/test/first",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "index",
+					"pathName": "pages/index/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "login",
+					"pathName": "pages/login/login",
+					"scene": null
 				}
 			]
 		}
